@@ -1,0 +1,74 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": ".*\\.json$"
+      },
+      {
+        "pattern": ".*\\.properties$"
+      },
+      {
+        "pattern": ".*\\.fxml$"
+      },
+      {
+        "pattern": ".*\\.css$"
+      },
+      {
+        "pattern": ".*\\.png$"
+      },
+      {
+        "pattern": ".*\\.jpg$"
+      },
+      {
+        "pattern": ".*\\.jpeg$"
+      },
+      {
+        "pattern": ".*\\.gif$"
+      },
+      {
+        "pattern": ".*\\.bmp$"
+      },
+      {
+        "pattern": ".*\\.ico$"
+      },
+      {
+        "pattern": ".*\\.ttf$"
+      },
+      {
+        "pattern": ".*\\.otf$"
+      },
+      {
+        "pattern": ".*\\.woff$"
+      },
+      {
+        "pattern": ".*\\.woff2$"
+      },
+      {
+        "pattern": "META-INF/.*"
+      },
+      {
+        "pattern": "com/feixiang/tabletcontrol/.*"
+      },
+      {
+        "pattern": "css/.*"
+      },
+      {
+        "pattern": "images/.*"
+      },
+      {
+        "pattern": "icons/.*"
+      },
+      {
+        "pattern": "fonts/.*"
+      },
+      {
+        "pattern": "i18n/.*"
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "name": "com.feixiang.tabletcontrol.i18n.messages"
+    }
+  ]
+}
